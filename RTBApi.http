@@ -1,0 +1,6 @@
+@RTBApi_HostAddress = http://localhost:5153
+
+GET {{RTBApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
